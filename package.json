@@ -1,0 +1,13 @@
+{
+  "name": "@types/jaeger-client",
+  "version": "0.0.6",
+  "description": "typings for jaeger-client-node lib",
+  "main": "entrypoint.d.ts",
+  "typings": "entrypoint.d.ts",
+  "scripts": {},
+  "author": "https://github.com/julianste",
+  "license": "MIT",
+  "dependencies": {
+    "opentracing": "^0.14.1"
+  }
+}
